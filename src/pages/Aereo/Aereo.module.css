@@ -1,0 +1,75 @@
+.container {
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+  min-height: 100vh;
+  background-color: #000000;
+}
+
+.aereosGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  margin: 0 auto;
+  max-width: 70%;
+  margin-bottom: 20px;
+}
+
+.aereoItem {
+  margin-top: 20px;
+  background-color: #12161E;
+  padding: 20px;
+  border-radius: 5px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.itemTitle {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.itemPrice {
+  font-size: 16px;
+  color: #666666;
+  margin-bottom: 5px;
+}
+
+.itemDesc {
+  font-size: 14px;
+  color: #999999;
+}
+
+.doarButton {
+  background-color: #076a04;
+  color: #12161E;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  margin-top: auto;
+}
+
+.doarButton:hover {
+  background-color: #2e8b57;
+}
+
+.button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.Footer {
+  margin-top: 15px;
+  color: #cdcdcd;
+}
+
+@media screen and (max-width: 768px) {
+  .aereosGrid {
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+  }
+}

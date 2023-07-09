@@ -1,0 +1,59 @@
+{
+    "outros": [
+        {
+            "NomeOutros": "Personagem Extra",
+            "PrecoOutros": 40.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Template de carro",
+            "PrecoOutros": 30.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Livery Exclusiva",
+            "PrecoOutros": 120.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Verificado Insta",
+            "PrecoOutros": 25.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Placa personalizada",
+            "PrecoOutros": 25.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Vaga na Garagem",
+            "PrecoOutros": 25.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Chip Telefônico",
+            "PrecoOutros": 25.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Spotify",
+            "PrecoOutros": 15.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Nacionalidade",
+            "PrecoOutros": 10.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Troca de nome",
+            "PrecoOutros": 10.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        },
+        {
+            "NomeOutros": "Remover 1 Advertência",
+            "PrecoOutros": 30.00,
+            "ImgOutros": "https://cdn.discordapp.com/attachments/1102724838969319474/1127699097017667584/Verificado-no-Insta.png"
+        }
+    ]
+}
